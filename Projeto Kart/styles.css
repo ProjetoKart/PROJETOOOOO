@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    font-family: fontecabecalho;
+    background-color: rgb(35, 35, 35);
+}
+
+#area-cabecalho{
+    background-color: rgb(65, 65, 65);
+    color: #0AC254;
+    align-items: center;
+    padding: 25px;
+    display: flex;
+    
+}
+a{
+    text-decoration: none;
+    color: #0AC254;
+    font-size: 20px;
+}
+a:hover{
+    text-decoration: none;
+    
+}
+.links{
+    padding-left: 80px;
+    display: flex;
+    display: inline-block;
+    
+}
+.kart{
+    padding-bottom: 15px;
+    text-align: center;
+}
+#area-cabecalho a:hover{ 
+    text-decoration: none;
+    color: #DCFFC2;
+    font-size: 25px;
+}
+.logo{
+    text-align: left;
+    padding-right: 180px;
+    padding-left: 60px;
+}
+#fotos{
+    align-items: center;
+}
